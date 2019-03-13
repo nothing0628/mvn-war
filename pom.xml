@@ -35,7 +35,7 @@
     </distributionManagement>
     <repositories>
 		<repository>
-			<id>public</id>
+			<id>nexus</id>
 			<name>nexus</name>
 			<url>http://192.168.120.40:8081/repository/public/</url>
 		</repository>
